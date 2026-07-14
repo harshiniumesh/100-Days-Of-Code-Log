@@ -16,4 +16,5 @@ While my core source code and daily drafts remain in a private repository to mai
 | Day | Core Project / Competency | Key Technical Concepts Mastered | Frameworks / Modules | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **Day 01** | Brand Name Generator | String manipulation, standard input/output handling, variable management | Core Python | ✅ Completed |
-| **Day 02** | *Coming Soon* | *Awaiting next technical challenge...* | — | ⏳ Next Up |
+| **Day 02** | Data Types & Manipulation | Primitive types (String, Int, Float, Boolean), type casting, mathematical operations, and F-strings | Core Python | ✅ Completed |
+| **Day 03** | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
