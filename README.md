@@ -17,4 +17,5 @@ While my core source code and daily drafts remain in a private repository to mai
 | :--- | :--- | :--- | :--- | :--- |
 | **Day 01** | Brand Name Generator | String manipulation, standard input/output handling, variable management | Core Python | ✅ Completed |
 | Day 02 | Tip Calculator Project | Data types, mathematical operations, number manipulation, string formatting, and f-strings | Core Python | ✅ Completed |
-| **Day 03** | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
+| Day 03 | Treasure Island Project | Control flow with conditional statements (if/elif/else), nested conditionals, multiple ifs, modulo operator, and logical operators | Core Python | ✅ Completed |
+| Day 04 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
