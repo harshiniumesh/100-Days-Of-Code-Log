@@ -21,4 +21,5 @@ While my core source code and daily drafts remain in a private repository to mai
 | Day 04 | Rock Paper Scissors | Pseudo-randomization via the `random` module, working with Python lists, handling IndexErrors, and nested data structures | Core Python | ✅ Completed |
 | Day 05 | Password Generator | Iteration logic using `for` loops, leveraging the `range()` function, accumulator patterns, list shuffling, and password randomization | Core Python | ✅ Completed |
 | Day 06 | Maze Challenge | Defining/calling functions, implementing `while` loops, conditional logic for navigating hurdles, and complex maze traversal algorithms | Reeborg's World | ✅ Completed |
-| Day 07 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
+| Day 07 | Hangman Project | Implementing game logic, managing string lists, tracking player progress, handling user input, and modularizing code into functional steps | Core Python | ✅ Completed |
+| Day 08 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
