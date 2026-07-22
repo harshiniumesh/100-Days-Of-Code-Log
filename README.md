@@ -24,4 +24,6 @@ While my core source code and daily drafts remain in a private repository to mai
 | Day 07 | Hangman Project | Implementing game logic, managing string lists, tracking player progress, handling user input, and modularizing code into functional steps | Core Python | ✅ Completed |
 | Day 08 | Caesar Cipher | Function parameters, passing multiple inputs, distinguishing between positional and keyword arguments, and cryptographic shifting logic | Core Python | ✅ Completed |
 | Day 09 | Secret Auction Program | Working with Python dictionaries, key-value pairs, nesting dictionaries inside lists, and clearing console screens for interactive applications | Core Python | ✅ Completed |
+| Day 10 | Calculator Project | Functions with outputs, multiple return statements, docstrings, and combining dictionaries with loops to build an interactive calculator | Core Python | ⏳ In Progress |
+| Day 11 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
 | Day 10 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
